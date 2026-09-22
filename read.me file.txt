@@ -30,6 +30,11 @@ This project analyzes e-commerce sales data using Microsoft Excel and Power Quer
 The dashboard provides a visual summary of e-commerce sales performance across channels, order statuses, and months.
 
 ## Skills Demonstrated
+
+
+
+## Dashboard Preview
+![E-Commerce Sales Dashboard](dashboard_screenshot.png)
 - Data cleaning
 - Data validation
 - Data analysis
