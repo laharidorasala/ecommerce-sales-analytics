@@ -1,0 +1,37 @@
+
+# E-Commerce Sales Analytics Dashboard
+
+## Project Overview
+This project analyzes e-commerce sales data using Microsoft Excel and Power Query.
+
+## Tools Used
+- Microsoft Excel
+- Power Query
+- PivotTables
+- Charts
+- Slicers
+
+## Key Analysis
+- Total Sales
+- Total Profit
+- Total Orders
+- Sales by Channel
+- Sales by Order Status
+- Monthly Sales Trend
+- Sales by Shipping Type
+
+## Data Cleaning
+- Checked data types
+- Validated profit calculations
+- Checked for duplicate Order IDs
+- Checked for missing values
+
+## Dashboard
+The dashboard provides a visual summary of e-commerce sales performance across channels, order statuses, and months.
+
+## Skills Demonstrated
+- Data cleaning
+- Data validation
+- Data analysis
+- Data visualization
+- Excel dashboard development
