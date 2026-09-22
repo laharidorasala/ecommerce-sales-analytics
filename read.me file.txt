@@ -34,7 +34,7 @@ The dashboard provides a visual summary of e-commerce sales performance across c
 
 
 ## Dashboard Preview
-![E-Commerce Sales Dashboard](Dashboard.png.png)
+![E-Commerce Sales Dashboard](Dashboard.png)
 - Data cleaning
 - Data validation
 - Data analysis
